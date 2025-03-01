@@ -25,9 +25,9 @@ You can download my dataset in this repository in "Datasets" directory.
 <img src="Image_Des/StopSign.png" width=800><br/>
 
 ## Requirements
-* **Python**
-* **Basic knowledge of nlp**
-* **Cosine similarity**
+* **Python.**
+* **Support Vector Machine, Hog, Sliding window.**
+* **Read xml file.**
 
 ## References
 
