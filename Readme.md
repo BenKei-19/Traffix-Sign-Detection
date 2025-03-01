@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project aims to develop a program that uses machine learning algorithms to classify traffic signs. Here we have three datasets of crosswalk, speedlimit and stop sign with Support Vector Machines(SVM), Histograms of Objects Gradient(Hog), Pyramid Image technique.
+This project aims to develop a program that uses machine learning algorithms to classify traffic signs. Here we have three datasets of crosswalk, speedlimit and stop sign with Support Vector Machines(SVM), Histograms of Oriented Gradient(Hog), Pyramid Image technique.
 
 ## Datasets
 You can download my dataset in this repository in "Datasets" directory.
